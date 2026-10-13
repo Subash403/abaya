@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" fill="none">
+  <!-- Wala Abaya Monogram Crest -->
+  <g transform="translate(4, 8)">
+    <circle cx="24" cy="24" r="23" stroke="#7C5C8A" stroke-width="1.2" stroke-opacity="0.85"/>
+    <circle cx="24" cy="24" r="19" stroke="#18181B" stroke-width="0.75" stroke-dasharray="2 2"/>
+    <!-- Stylized 'W' & 'A' Atelier Monogram -->
+    <path d="M15 17L19 31L24 20L29 31L33 17" stroke="#7C5C8A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="24" cy="24" r="1.5" fill="#7C5C8A"/>
+  </g>
+  <!-- Typography -->
+  <text x="64" y="32" font-family="'Cormorant Garamond', 'Playfair Display', Georgia, serif" font-size="24" font-weight="600" letter-spacing="0.22em" fill="#18181B">WALA ABAYA</text>
+  <text x="65" y="46" font-family="'Plus Jakarta Sans', Inter, sans-serif" font-size="8.5" font-weight="500" letter-spacing="0.35em" fill="#7C5C8A">BESPOKE MODEST COUTURE • CHENNAI</text>
+</svg>
